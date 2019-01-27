@@ -13,7 +13,7 @@ I have also seen suggestions where the TCR flow would have different states, whe
 
 **Instead of changing how I revert, I am changing how I fail.** I want to write a red test that fails, but does not cause any reverting to happen.
 
-I have done this Elixir, but I assume you can do similar things with other languages. I `@tag` my red test with `:pending`.
+I have done this in Elixir, but I assume you can do similar things with other languages. I `@tag` my red test with `:pending`.
 
 {% highlight elixir %}
 @tag :pending
