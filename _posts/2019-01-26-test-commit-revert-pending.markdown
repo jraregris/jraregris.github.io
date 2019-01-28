@@ -45,6 +45,6 @@ mix test --exclude pending \
 ; mix test --only pending
 {% endhighlight %}
 
-Got any thoughts on this? Bark at me on [Twitter](https://twitter.com/jraregris)
+Got any thoughts on this? Bark at me on [Twitter](https://twitter.com/jraregris/status/1089361786132938757)
 
 [tcr]: https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864
